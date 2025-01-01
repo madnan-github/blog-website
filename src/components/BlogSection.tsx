@@ -5,7 +5,7 @@ interface BlogPost {
   id: string
   title: string
   excerpt: string
-  content: string
+  content?: string
   date: string
   author: {
     name: string

@@ -23,7 +23,7 @@ export default function AboutPage() {
             learn, share, and grow together.
           </p>
           <p className="text-gray-600">
-            Founded in 2023, we've quickly become a go-to resource for developers looking to stay ahead 
+            Founded in 2023, we&apos;ve quickly become a go-to resource for developers looking to stay ahead 
             in the fast-paced world of technology. Our team of experienced writers and industry experts 
             work tirelessly to bring you the latest news, tutorials, and insights.
           </p>
